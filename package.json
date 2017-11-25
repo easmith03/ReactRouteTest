@@ -1,0 +1,24 @@
+{
+  "name": "reactroutetest",
+  "version": "1.0.0",
+  "description": "React Router Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easmith03/ReactRouteTest.git"
+  },
+  "keywords": [
+    "Javascript",
+    "React",
+    "Demo"
+  ],
+  "author": "Eric Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easmith03/ReactRouteTest/issues"
+  },
+  "homepage": "https://github.com/easmith03/ReactRouteTest#readme"
+}
